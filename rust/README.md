@@ -11,8 +11,7 @@ Essa é a pasta onde farei os desafios que o meu amigo [@SK386](https://github.c
 
 ## *`metas`*
  - [X] faça um hello world em rust
- - [ ] através de codicionais crie um sistema de aprovação de alunos,
- em um curso em que a média é 7 e o resultado de 28 pontos para aprovação
+ - [X] através de codicionais crie um sistema de aprovação de alunos, em um curso em que a média é 7.
  - [ ] crie um sistema com vetores e laços de repetições, onde o programa só será finalizado
 caso a meta seja atingida.
  - [ ] crie um programa que use "switch" em rust, o tema é loja de brinquedos, mostre os produtos,
