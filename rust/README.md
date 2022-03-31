@@ -2,12 +2,12 @@
 Essa é a pasta onde farei os desafios que o meu amigo [@SK386](https://github.com/SK386) me propôs.
 
 ## DESAFIO 01
- - [ ] Estude variaveis (tipos primitivos) do rust
+ - [X] Estude variaveis (tipos primitivos) do rust
  - [ ] Estude o funcionamento da linguagem, origem e finalidade
- - [ ] Estude operadores relacionais
- - [ ] Estude operadores logicos
+ - [X] Estude operadores relacionais
+ - [X] Estude operadores logicos
  - [ ] Laços de repetições
- - [ ] codicionais.
+ - [X] codicionais.
 
 ## *`metas`*
  - [X] faça um hello world em rust
