@@ -6,7 +6,7 @@ Essa é a pasta onde farei os desafios que o meu amigo [@SK386](https://github.c
  - [ ] Estude o funcionamento da linguagem, origem e finalidade
  - [X] Estude operadores relacionais
  - [X] Estude operadores logicos
- - [ ] Laços de repetições
+ - [X] Laços de repetições
  - [X] codicionais.
 
 ## *`metas`*
