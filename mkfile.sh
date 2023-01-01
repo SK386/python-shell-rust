@@ -8,7 +8,7 @@ read entrada
 
 case $entrada in 
 
-1)'<!DOCTYPE html>
+1) echo '<!DOCTYPE html>
 <html lang = "pt-br">
 
 <head>
@@ -23,8 +23,7 @@ case $entrada in
 <body>
 
 </body>
-</html>'	
-
+</html>' > index.html 
 	;;
 2)
 	echo "*{
